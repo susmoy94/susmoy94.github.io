@@ -1,0 +1,23 @@
+[
+  {
+    "date": "2026-08-15",
+    "title": "Best Thesis Award at IISER Bhopal",
+    "summary": "I won the Best Thesis Award for my PhD thesis at the 13th Convocation of IISER Bhopal.",
+    "link": "cv.html",
+    "cta": "View CV"
+  },
+  {
+    "date": "2026-08-15",
+    "title": "Best Paper Award highlighted",
+    "summary": "The FACS best-paper publication is highlighted across the Publications and CV pages.",
+    "link": "publications.html",
+    "cta": "View publications"
+  },
+  {
+    "date": "2026-08-15",
+    "title": "Software repositories refreshed",
+    "summary": "The software page lists Zenodo repositories from my CV alongside selected GitHub artefacts.",
+    "link": "software.html",
+    "cta": "View software"
+  }
+]
